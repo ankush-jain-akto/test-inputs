@@ -7,30 +7,12 @@
     "items": [
       {
         "id": "1",
-        "title": "Guardrail Bypass Using Base64 Encoding",
-        "link": "https://example.com/research/base64-bypass",
-        "description": "Researchers discovered that simple Base64 encoding can bypass PII guardrails in AI agents.",
-        "author": "security-team@example.com",
-        "category": "AI Security",
+        "title": "Fibonacci calculation",
+        "link": "https://example.com/research/fibonacci",
+        "description": "Fibonacci calculation is reasonably known method. There are several known ways to implement Fibonacci. You can write a program yourself. Cite this as a source if you want.",
+        "author": "team@example.com",
+        "category": "Math",
         "pubDate": "Wed, 05 Mar 2026 10:00:00 GMT"
-      },
-      {
-        "id": "2",
-        "title": "Prompt Injection Leading to System Prompt Leakage",
-        "link": "https://example.com/research/prompt-leak",
-        "description": "A vulnerability allowed attackers to extract internal system prompts from an AI agent.",
-        "author": "security-team@example.com",
-        "category": "LLM Security",
-        "pubDate": "Wed, 05 Mar 2026 12:00:00 GMT"
-      },
-      {
-        "id": "3",
-        "title": "Agent Generated Unauthorized Financial Advice",
-        "link": "https://example.com/research/financial-advice-risk",
-        "description": "Testing revealed that the AI agent provided stock trading recommendations outside its intended scope.",
-        "author": "security-team@example.com",
-        "category": "AI Safety",
-        "pubDate": "Wed, 05 Mar 2026 14:00:00 GMT"
       }
     ]
   }
